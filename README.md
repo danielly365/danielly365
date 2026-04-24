@@ -4,13 +4,12 @@
 
 - 🤔 Explorando novas tecnologias e desenvolvendo soluções de software.
 - 🎓 Estudando jogos digitais na fatec de americana.
-- 🌱 Aprendendo mais sobre React, React native, TypeScript, MongoDB.
+- 🌱 Aprendendo mais sobre React, Next, TypeScript.
 
 ## Minhas Skills
 
 **Aplicações e dados**
 
-![Java](https://img.shields.io/badge/-Java-333333?style=flat&logo=Java&logoColor=007396)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
 ![C#](https://img.shields.io/badge/C%23-239120?style=flat&logo=c-sharp&logoColor=white&style=for-the-badge)
 ![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=HTML5)
