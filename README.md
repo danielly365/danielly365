@@ -3,7 +3,7 @@
 ## Sobre mim
 
 - 🤔 Explorando novas tecnologias e desenvolvendo soluções de software.
-- 🎓 Estudando jogos digitais na fatec de americana.
+- 🎓 Formada em Jogos Digitais na Fatec de Americana.
 - 🌱 Aprendendo mais sobre React, Next, TypeScript.
 
 ## Minhas Skills
